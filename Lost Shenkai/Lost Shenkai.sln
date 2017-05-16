@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lost Shenkai.Plugins", "Lost Shenkai.Plugins.csproj", "{CAF5622A-C5A2-1683-25E4-2407C774D2EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lost Shenkai", "Lost Shenkai.csproj", "{8EDBB194-84B2-F82A-7BEB-61B50B31A7DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lost Shenkai.Editor.Plugins", "Lost Shenkai.Editor.Plugins.csproj", "{822CD644-423D-FDAF-D3AD-2E1DE44E4CBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lost Shenkai.Editor", "Lost Shenkai.Editor.csproj", "{5BA8812B-CFD3-3BFA-DA01-4E6B30DF70FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAF5622A-C5A2-1683-25E4-2407C774D2EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF5622A-C5A2-1683-25E4-2407C774D2EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF5622A-C5A2-1683-25E4-2407C774D2EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF5622A-C5A2-1683-25E4-2407C774D2EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EDBB194-84B2-F82A-7BEB-61B50B31A7DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDBB194-84B2-F82A-7BEB-61B50B31A7DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EDBB194-84B2-F82A-7BEB-61B50B31A7DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDBB194-84B2-F82A-7BEB-61B50B31A7DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{822CD644-423D-FDAF-D3AD-2E1DE44E4CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{822CD644-423D-FDAF-D3AD-2E1DE44E4CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{822CD644-423D-FDAF-D3AD-2E1DE44E4CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{822CD644-423D-FDAF-D3AD-2E1DE44E4CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BA8812B-CFD3-3BFA-DA01-4E6B30DF70FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BA8812B-CFD3-3BFA-DA01-4E6B30DF70FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BA8812B-CFD3-3BFA-DA01-4E6B30DF70FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BA8812B-CFD3-3BFA-DA01-4E6B30DF70FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
